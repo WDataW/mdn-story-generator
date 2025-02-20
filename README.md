@@ -1,6 +1,6 @@
 # story-generator
 the program generates a somewhat random story. it picks a character, place, and phrase randomly from an array to put the story together.
-NOTE: this project is a part of [MDN tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice). 
+NOTE: this project is a part of [MDN tutorials](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Silly_story_generator). 
 
 ![Screenshot](preview.png)
 
